@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: rgb(106, 131, 112);
+}
+
+h1{
+ height: 100vh;
+ display: flex;
+ color:white;
+ justify-content: center;
+ align-items:stretch;
+ font-size: 5em;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-shadow: 0 0 50px black;
+}
